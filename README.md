@@ -1,16 +1,20 @@
 # data-intern-coding-challenge
 
-Instrument Data Processor
+Instrument Data Processor: 
+
 Python application that processes and organises instrument data from multiple input files, making it searchable through a generated CSV file.
 
 Overview
+
 This script:
+
 Parses instrument data from data.txt, StaticFields.txt, and DynamicFields.txt.
 Extracts and maps static and dynamic field values.
 Generates a CSV report with extracted information.
 Allows users to search for specific instrument codes interactively.
 
-Files Structure:
+Files Structure: 
+
 Ensure the following files are present in the working directory:
 - InstrumentDataProcessor.py   # Main Python script
 - data.txt                  # Input data file
@@ -42,9 +46,11 @@ Example Workflow:
 3. Type exit to quit the search.
 
 Output:
+
 The CSV output is saved as output_DDMMYY.csv, where DDMMYY is the date from the first record in data.txt. If the date is missing, the output is saved as output.csv.
 
 Cleanup:
+
 To remove generated CSV files:
 rm output_*.csv
 
