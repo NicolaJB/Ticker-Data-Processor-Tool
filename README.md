@@ -4,11 +4,9 @@ Instrument Data Processor:
 
 Python application that processes and organises instrument data from multiple input files, making it searchable through a generated CSV file.
 
-Overview
+Overview:
 
-This script:
-
-Parses instrument data from data.txt, StaticFields.txt, and DynamicFields.txt.
+This script parses instrument data from data.txt, StaticFields.txt, and DynamicFields.txt.
 Extracts and maps static and dynamic field values.
 Generates a CSV report with extracted information.
 Allows users to search for specific instrument codes interactively.
