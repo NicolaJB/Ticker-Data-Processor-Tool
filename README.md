@@ -42,7 +42,7 @@ Usage Instructions:
 
 Example Workflow:
 1. Run the script.
-2. Enter an instrument code (as listed in data.txt) in to search for its details.
+2. Enter an instrument code (as listed in data.txt) to search for its details.
 3. Type exit to quit the search.
 
 Output:
