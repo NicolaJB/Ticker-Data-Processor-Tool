@@ -21,20 +21,19 @@ Ensure the following files are present in the working directory:
 - DynamicFields.txt         # Dynamic field mappings
 
 Setup Instructions:
-1. Ensure Python is Installed
-Check Python 3 is installed:
+1. Ensure Python is Installed. Check Python 3 is installed:
 
 python --version
 
 If not installed, download it from python.org.
 
-3. Clone the Repository
+2. Clone the Repository
    
 git clone https://github.com/NicolaJB/data-intern-coding-challenge.git
 
 cd data-intern-coding-challenge
 
-5. Run the Program
+3. Run the Program
    
 python InstrumentDataProcessor.py
 
