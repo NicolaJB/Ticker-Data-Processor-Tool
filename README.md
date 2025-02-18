@@ -2,14 +2,15 @@
 
 Instrument Data Processor: 
 
-Python application that processes and organises instrument data from multiple input files, making it searchable through a generated CSV file.
+This Python application processes and organises instrument data from multiple input files, making it searchable through a generated CSV file.
 
-Overview:
+Overview
 
-This script parses instrument data from data.txt, StaticFields.txt, and DynamicFields.txt.
-Extracts and maps static and dynamic field values.
-Generates a CSV report with extracted information.
-Allows users to search for specific instrument codes interactively.
+This script:
+- parses instrument data from data.txt, StaticFields.txt, and DynamicFields.txt.
+- Extracts and maps static and dynamic field values.
+- Generates a CSV report with extracted information.
+- Allows users to search for specific instrument codes interactively.
 
 Files Structure: 
 
@@ -22,16 +23,23 @@ Ensure the following files are present in the working directory:
 Setup Instructions:
 1. Ensure Python is Installed
 Check Python 3 is installed:
+
 python --version
+
 If not installed, download it from python.org.
 
-2. Clone the Repository
+3. Clone the Repository
+   
 git clone https://github.com/NicolaJB/data-intern-coding-challenge.git
+
 cd data-intern-coding-challenge
 
-3. Run the Program
+5. Run the Program
+   
 python InstrumentDataProcessor.py
+
 For systems with Python 3:
+
 python3 instrument_processor.py
 
 Usage Instructions:
