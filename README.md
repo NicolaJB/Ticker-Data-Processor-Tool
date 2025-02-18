@@ -12,10 +12,10 @@ Allows users to search for specific instrument codes interactively.
 
 Files Structure:
 Ensure the following files are present in the working directory:
-├── InstrumentDataProcessor.py   # Main Python script
-├── data.txt                  # Input data file
-├── StaticFields.txt          # Static field mappings
-└── DynamicFields.txt         # Dynamic field mappings
+- InstrumentDataProcessor.py   # Main Python script
+- data.txt                  # Input data file
+- StaticFields.txt          # Static field mappings
+- DynamicFields.txt         # Dynamic field mappings
 
 Setup Instructions:
 1. Ensure Python is Installed
