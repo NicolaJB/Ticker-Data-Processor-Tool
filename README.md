@@ -37,7 +37,7 @@ cd data-intern-coding-challenge
    
 python InstrumentDataProcessor.py
 
-For systems with Python 3:
+For systems to specify Python 3 (ie Mac):
 
 python3 instrument_processor.py
 
