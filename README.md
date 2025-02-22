@@ -39,7 +39,7 @@ python InstrumentDataProcessor.py
 
 For systems to specify Python 3 (ie Mac):
 
-python3 instrument_processor.py
+python3 InstrumentDataProcessor.py
 
 Usage Instructions:
 1. Process Data: The program reads the input files, maps fields, and generates an output CSV.
