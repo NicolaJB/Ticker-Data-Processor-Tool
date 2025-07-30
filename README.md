@@ -1,6 +1,4 @@
-# data-intern-coding-challenge
-
-Instrument Data Processor: 
+Ticker Data Processor
 
 This Python application processes and organises instrument data from multiple input files, making it searchable through a generated CSV file.
 
