@@ -62,3 +62,7 @@ Troubleshooting:
 * File Not Found: Ensure data.txt, StaticFields.txt, and DynamicFields.txt exist in the same directory as the script.
 * Python Version Issues: Confirm Python 3.x is being used.
 
+## License
+
+This project is licensed under the MIT License. 
+
