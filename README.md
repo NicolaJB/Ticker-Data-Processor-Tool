@@ -28,7 +28,7 @@ If not installed, download it from python.org.
 
 2. Clone the Repository
    
-git clone https://github.com/NicolaJB/data-intern-coding-challenge.git
+git clone https://github.com/NicolaJB/Ticker-Data-Processor-Tool.git
 
 cd data-intern-coding-challenge
 
